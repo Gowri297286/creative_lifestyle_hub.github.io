@@ -1,0 +1,82 @@
+body{
+  background-color:black;
+  
+}
+.show_case{
+  display: inline-flex;
+  align-content: center;
+}
+#img{
+  align-items: flex-start;
+  display:inline;
+  padding-top: 100px;
+  margin: auto;
+
+}
+.caption{
+  font-size: 50%;
+  align-content:center;
+  display: flex;
+  align-items:line;
+  flex-shrink: initial;
+  display:inline;
+}
+#cr{
+  font-size: 100px;
+  color:red;
+  font-style: italic;
+  font-family: cursive;
+  
+}
+#ls{
+  font-size: 100px;
+  color:aqua;
+  font-style: italic;
+  font-family: cursive;
+  display: inline;
+
+}
+#hb{
+  font-size: 100px;
+  color:rgb(224, 13, 129);
+  font-style: italic;
+  font-family: cursive;
+}
+.create{
+font-family:cursive, Helvetica, sans-serif;
+font-size:25px;
+color:red;
+background-color:black;
+align-self:left;
+
+}
+.lifestyle{
+  font-family:cursive, Helvetica, sans-serif;
+  font-size:25px;
+  color:rgb(116, 230, 245);
+  background-color:black;
+  align-self:center;
+
+  }
+  .hub{
+    font-family:cursive, Helvetica, sans-serif;
+    font-size:25px;
+    color:rgb(224, 13, 129);
+    background-color:black;
+    align-self:right;
+    }
+    .paragraph {
+      color:aqua;
+      font-size:80px ;
+      font-style: italic;
+      align-self :center;
+      font-display:end;
+      font-weight: 200;
+    }
+    .conclusion{
+      color:lightgreen;
+      font-size: 100px;
+      font-style: italic;
+      text-align:center ;
+      font-weight: bolder;
+    }
